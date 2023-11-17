@@ -1,0 +1,14 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: Sport Statistics and Predictions (Python, SQL)
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://github.com/songsomang/Python"
+  description: Developed a machine learning model for predicting sports match outcomes by collecting the European Soccer match database. Conducted in-depth exploratory data analysis (EDA) to identify relevant patterns and relationships. Leveraged a diverse array of machine learning algorithms, including logistic regression and XGBoost to create a robust prediction model. Evaluated model performance using metrics like accuracy, precision, and recall with cross-validation to ensure reliability.
+
+- project: Cross-Platform Design for Subscriptions - Database System Project (MySQL, PHP)
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: Architected Enhanced Entity-Relationship (EER) diagram to establish a data model with normalized relations and functional dependencies tailored to bicycle subscription services. Utilized PHP and MySQL in the XAMPP environment to facilitate efficient data loading such as time slot availability and reservation features.
