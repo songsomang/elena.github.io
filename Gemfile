@@ -1,6 +1,5 @@
 source "https://rubygems.org"
-<<<<<<< HEAD
-gem "jekyll", "~> 3.8.7"
+
 =======
 
 gem 'github-pages'
