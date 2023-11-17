@@ -1,32 +1,31 @@
 # Jobs
-#  <!-- Data Analyst Intern -->
+# Data Analyst Intern
 - company: UNC Chapel Hill | Chapel Hill, NC
   position: Data Analyst Intern
-  duration: May &mdash;  Oct 2022
+  duration: May - Oct 2022
   summary: Results-driven research used with SQL and SPSS, specializing in extracting actionable insights to hospital. key contributions include
     <ul class="resume-item-list">
         <li>Developed Python libraries to characterize and analyze diagnostic features related to social risk factors, enhancing the capability to understand health disparities</li>
         <li>Designed and executed statistical models, such as linear regression and two-way ANOVA, to investigate the impact of social determinants on patient care quality</li>
-        <li>Utilized Tableau to create data visualizations, illustrating the impact of socio-economic factors on healthcare outcomes based on 22k+ EPIC Electronic Health Records (EHRs) from NC’s Women’s Hospital </li>
+        <li>Utilized Tableau to create data visualizations, illustrating the impact of socio-economic factors on healthcare outcomes based on 22k+ EPIC Electronic Health Records (EHRs) from NC’s Women’s Hospital</li>
     </ul>
 
-#   <!-- Research Associate -->
+# Research Associate
 - company: Chungnam National University Hospital | Dajeon, South Korea
   position: Research Associate
-  duration:  2020 &mdash; 2021
-  summary: 
+  duration: 2020 - 2021
+  summary:
   <ul class="resume-item-list">
       <li>Assisted in optimizing the SQL database performance to ensure efficient and timely access to critical patient data, reducing query response times by 25%</li>
-      <li> Designed and implemented a comprehensive COVID-19 patient outcome reporting system that delivered daily, accurate, and real-time insights for clinical evaluations</li>
-      <li>Transformed PubMed XML data into a structured CSV format for SQL database ingestion and executed queries to analyze medical research. </li>
+      <li>Designed and implemented a comprehensive COVID-19 patient outcome reporting system that delivered daily, accurate, and real-time insights for clinical evaluations</li>
+      <li>Transformed PubMed XML data into a structured CSV format for SQL database ingestion and executed queries to analyze medical research.</li>
   </ul>
 
-
-#  <!-- Associate Scientist -->
-- company: Wake Forest Institute of Regenerative Medicine | Winston-Salem, NC 
+# Associate Scientist
+- company: Wake Forest Institute of Regenerative Medicine | Winston-Salem, NC
   position: Associate Scientist
-  duration:  2019  &mdash; May, 2020
-  summary: 
+  duration: 2019 - May, 2020
+  summary:
   <ul class="resume-item-list">
       <li>Contributed to the design and development of in vitro conditioned medium hypothesis, employing statistical analysis through t-test</li>
       <li>Analyzed and profiled a dataset containing 100+ cytokines of Human Placenta Stem Cell samples using Tukey’s post hoc analysis for multiple comparisons</li>
